@@ -14,7 +14,7 @@ targets:
     deploymentTarget: "16.0"
     sources: [serene]
     info:
-      path: serene/Info.plist
+      path: serene/Generated/Info.plist
       properties:
         CFBundleDevelopmentRegion: en-US
         CFBundleExecutable: serene
